@@ -1,4 +1,4 @@
-Lambda Expressions:
+# Lambda Expressions:
 If you remember the days before Java SE 8 was released, then you probably remember the anonymous classes concept. And maybe you have heard that lambda expressions are another, simpler way of writing instances of anonymous classes, in some precise cases.
 Now  you do not need to go through anonymous classes to understand how to write a lambda expression. you do not need anonymous classes anymore.
 Writing a lambda expression breaks down to understanding three steps:
